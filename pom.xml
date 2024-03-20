@@ -6,7 +6,11 @@
 
     <groupId>com.abhishek</groupId>
     <artifactId>spring-boot-demo</artifactId>
-    <version>1.0</version>
+    <packaging>war</packaging>
+    <version>3.0-RELEASE</version>
+    <name>01-maven-web-app</name>
+    <url>http://maven.apache.org</url>
+    
 
     <name>spring-boot-demo</name>
     <url></url>
