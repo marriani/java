@@ -10,10 +10,6 @@
     <version>3.0-RELEASE</version>
     <name>anil file</name>
     <url>http://maven.apache.org</url>
-    
-
-    <name>spring-boot-demo</name>
-    <url></url>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
