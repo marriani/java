@@ -55,7 +55,7 @@
 
     <build>
 
-        <finalName>spring-boot-web</finalName>
+        <finalName>anil file</finalName>
 
         <plugins>
             <plugin>
