@@ -8,7 +8,7 @@
     <artifactId>spring-boot-demo</artifactId>
     <packaging>war</packaging>
     <version>3.0-RELEASE</version>
-    <name>anil file</name>
+    <name>anil</name>
     <url>http://maven.apache.org</url>
 
     <parent>
