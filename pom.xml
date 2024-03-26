@@ -51,7 +51,7 @@
 
     <build>
 
-        <finalName>anil file</finalName>
+        <finalName>anil</finalName>
 
         <plugins>
             <plugin>
